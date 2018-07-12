@@ -1,3 +1,16 @@
+## 개발환경
+
+CUDA8.0+NCC
+Python2.7 (python3.6에서 동작을 안함.. CUDA9.0이여서 설치 실패했을수도 있음)
+openblas
+
+$ sudo apt install nvidia-cuda-toolkit
+$ which ncc
+$ apt-get install openblas-dev
+그래고 아래와 같이 설치
+
+
+
 # SNIPER: Efficient Multi-Scale Training
 
 <p align="center">
